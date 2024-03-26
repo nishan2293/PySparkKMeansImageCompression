@@ -61,6 +61,19 @@ The script includes the following key functions:
 
 - `main()`: The main function which orchestrates the segmentation process across multiple images and cluster sizes.
 
+## Results
+
+<img width="495" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/c1b0b73d-1542-4128-8305-7c11ccf23909">
+<img width="425" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/dea54198-ae55-406b-a893-1be90f72136b">
+
+<img width="476" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/ca97e80c-1df2-4e2b-b62b-5312a92c21a1">
+
+<img width="599" alt="Screenshot 2024-03-25 at 7 18 43 PM" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/d084d0ba-e0d4-411c-ae15-1cee272a29e1">
+
+<img width="449" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/bb4db431-9798-4746-acfc-bdd83107cd38">
+
+
+
 ## Example
 
 To run the script, use the following command:
